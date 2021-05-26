@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: red;    
+}
+#submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display:none;
+}
+input{
+    margin: 10px;
+    color: white;
+    background-color: red;
+}
+#names{
+    font-weight: bold;
+}
+h1{
+    color: white;
+}
